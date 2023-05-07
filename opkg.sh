@@ -1,3 +1,4 @@
+#!/bin/bash
 opkg install ipset
 opkg install ipt2socks 
 opkg install iptables 
