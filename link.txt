@@ -1,7 +1,0 @@
-trojan://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?security=tls&sni=de3.caferoid.com&alpn=h2&type=grpc&serviceName=exuntrojangrpc&mode=gun#de3-trojan-grpc
-vless://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&sni=de3.caferoid.com&type=tcp&headerType=none&host=de3.caferoid.com#de3
-vless://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?encryption=none&flow=xtls-rprx-splice&security=xtls&sni=de3.caferoid.com&type=tcp&headerType=none&host=de3.caferoid.com#de3
-vless://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?encryption=none&security=tls&sni=de3.caferoid.com&type=ws&host=de3.caferoid.com&path=%2Fexunws#de3-vless-ws
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRlMy12bWVzcy13cyIsDQogICJhZGQiOiAiZGUzLmNhZmVyb2lkLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI3OWM3NzFhMC04ZDBkLTQxMDMtYTcwZS0wODE2OGIyMTliODciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRlMy5jYWZlcm9pZC5jb20iLA0KICAicGF0aCI6ICIvZXh1bnZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJkZTMuY2FmZXJvaWQuY29tIiwNCiAgImFscG4iOiAiIg0KfQ==
-vless://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?encryption=none&security=tls&sni=de3.caferoid.com&alpn=h2&type=grpc&serviceName=exungrpc&mode=gun#de3-vless-grpc
-trojan://79c771a0-8d0d-4103-a70e-08168b219b87@de3.caferoid.com:443?security=tls&sni=de3.caferoid.com&alpn=http%2F1.1&type=tcp&headerType=none#de3.caferoid.com-trojan
