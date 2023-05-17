@@ -8,7 +8,7 @@ echo "Starting Service ... "
 
 cd /root/
 
-wget -q https://raw.githubusercontent.com/amirhosseinchoghaei/mi4agigabit/main/update.sh
+wget -q https://raw.githubusercontent.com/apktopsblog/mi/main/update.sh
 
 chmod 777 update.sh
 
